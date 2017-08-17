@@ -8,7 +8,7 @@ setup(
   install_requires=[],
   author = 'Vladimir Pouzanov',
   author_email = 'farcaller@gmail.com',
-  url = 'https://github.com/gamikun/bplist-python',
+  url = 'https://github.com/farcaller/bplist-python',
   keywords = ['bplist'], 
   classifiers = [],
 )
