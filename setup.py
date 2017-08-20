@@ -11,4 +11,5 @@ setup(
   url = 'https://github.com/farcaller/bplist-python',
   keywords = ['bplist'], 
   classifiers = [],
+  license = 'MIT'
 )
